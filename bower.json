@@ -1,0 +1,21 @@
+{
+  "name": "MusicalisimoDesign",
+  "homepage": "https://github.com/ilyaivanov/MusicalisimoDesign",
+  "authors": [
+    "Illya Ivanov <Illya.Ivanov@spp.se>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.6"
+  }
+}
